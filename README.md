@@ -1,7 +1,7 @@
 # Summary
 
 - This file is a compact 40 lines global baseline for how Claude Code should write and modify code across projects, while project-level files handle stack-specific and architecture-specific rules. 
-- ** Global or User-level CLAUDE.md ~/.claude **
+- **Global or User-level CLAUDE.md ~/.claude**
 
 # Purpose
 

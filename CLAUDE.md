@@ -39,3 +39,9 @@
 - Do not comment trivial or obvious lines.
 - Keep comments short and meaningful.
 - Do not just restate the code or repeat function names.
+
+## Execution Discipline
+- State assumptions explicitly when they affect the implementation.
+- Touch only code that is directly related to the task.
+- Before finishing a non-trivial change, run or describe a concrete verification step that confirms the result.
+- Stop when the task is done. Do not continue with adjacent improvements unless asked.
